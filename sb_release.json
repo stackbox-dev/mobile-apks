@@ -1,5 +1,5 @@
 {
-  "versionCode": 3300,
-  "apkUrl": "https://github.com/stackbox-dev/mobile-apks/releases/download/v33.8.16/sb_release.apk",
+  "versionCode": 3000,
+  "apkUrl": "https://github.com/stackbox-dev/mobile-apks/releases/download/v33.0.0/release.apk",
   "forceUpdate": false
 }
