@@ -1,5 +1,5 @@
 {
-  "versionCode": 5000,
-  "apkUrl": "https://github.com/stackbox-dev/mobile-apks/releases/download/v50.0.0/sb_release.apk",
+  "versionCode": 5500,
+  "apkUrl": "https://github.com/stackbox-dev/mobile-apks/releases/download/v55.0.4/sb_release.apk",
   "forceUpdate": false
 }
